@@ -1,4 +1,4 @@
-# Project Name
+# Tour and Travels Management System
 
 ## Description
 This project is a web-based Tour and Travels Management System developed using PHP and MySQL. It allows users to browse tour packages, make bookings, and manage their travel plans. An admin panel is implemented to manage users, bookings, and tour details efficiently. The system provides a simple and user-friendly interface for smooth operation.
