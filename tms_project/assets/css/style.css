@@ -1,0 +1,20 @@
+body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding: 0; }
+nav { background: #2c3e50; padding: 1rem; }
+nav a { text-decoration: none; color: white; margin-right: 20px; transition: 0.3s; }
+nav a:hover { color: #3498db; }
+
+.package-card {
+    transition: transform 0.3s;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border-radius: 10px;
+    overflow: hidden;
+    background: white;
+}
+.package-card:hover { transform: translateY(-10px); }
+
+button {
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+}

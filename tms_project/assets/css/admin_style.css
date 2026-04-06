@@ -1,0 +1,21 @@
+body { margin: 0; font-family: sans-serif; background: #f4f7f6; }
+.sidebar {
+    width: 230px;
+    height: 100vh;
+    background: #2c3e50;
+    color: white;
+    position: fixed;
+    padding: 20px;
+}
+.sidebar h2 { border-bottom: 1px solid #555; padding-bottom: 10px; }
+.sidebar a {
+    display: block;
+    color: #bdc3c7;
+    padding: 12px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+.sidebar a:hover { background: #34495e; color: white; border-radius: 5px; }
+
+.content { margin-left: 250px; padding: 30px; }
+table { background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 0 20px rgba(0,0,0,0.1); }
